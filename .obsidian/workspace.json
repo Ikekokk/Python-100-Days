@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "9a1814336177a505",
+    "type": "split",
+    "children": [
+      {
+        "id": "50c9a15e17f62670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce64090c5ddba12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day01-20/02.第一个Python程序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.第一个Python程序"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d19184f895c99c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc20fde35ca6a38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31d280d5b20b91b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bd44b04bb20b7665",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d402379010cdffac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a16691cbaaa070d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4ecaa8bde7fd49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06b5b37b83b2be5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day01-20/02.第一个Python程序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "02.第一个Python程序 的反向链接列表"
+            }
+          },
+          {
+            "id": "0ab3f57ff0bd9473",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day01-20/02.第一个Python程序.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02.第一个Python程序 的出链列表"
+            }
+          },
+          {
+            "id": "ca6533e8e5802207",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e2885722b510d739",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "66c30565668f60ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day01-20/02.第一个Python程序.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "02.第一个Python程序 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "ce64090c5ddba12c",
+  "lastOpenFiles": [
+    "Day01-20/01.初识Python.md",
+    "Day01-20/res/day01/install_python_4.png",
+    "Day01-20/res/day01/install_python_3.png",
+    "Day01-20/res/day01/install_python_2.png",
+    "Day01-20/res/day01/install_python_1.png",
+    "Day01-20/res/day01/github_pypl_and_ieee_spectrum.png",
+    "公开课/第04次公开课-好玩的Python/好玩的Python.md",
+    "公开课/第04次公开课-好玩的Python/res/requests.png",
+    "公开课/第04次公开课-好玩的Python/code/resources/chiling.jpg",
+    "公开课/第04次公开课-好玩的Python/code/resources/frame.jpg"
+  ]
+}
