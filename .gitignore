@@ -14,3 +14,9 @@ __pycache__
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
