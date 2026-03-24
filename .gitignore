@@ -21,3 +21,5 @@ __pycache__
 
 # Ignore Smart Environment folder
 .smart-env
+.obsidian/workspace.json
+.obsidian/plugins/copilot/data.json
